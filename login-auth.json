@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "csrf_cookie_ospos_v3",
+      "value": "35a8bb2c7e123807de09fcfef8e4e575",
+      "domain": "pos.aksharatraining.in",
+      "path": "/",
+      "expires": 1738668004.233253,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ospos_session",
+      "value": "h7mjcsrvta8n07locq1rjd0l32n9ba2n",
+      "domain": "pos.aksharatraining.in",
+      "path": "/",
+      "expires": 1738668002.785628,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

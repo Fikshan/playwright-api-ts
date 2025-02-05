@@ -1,0 +1,3 @@
+Page Title: S kart | Powered by OSPOS 3.3.7
+Dialog type is : confirm
+Popup message is : Are you sure you want to delete selected item(s)?

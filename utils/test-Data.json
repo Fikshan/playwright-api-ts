@@ -1,0 +1,8 @@
+{ 
+    "loginTestData" : {
+    "username" : "admin",
+    "password" : "pointofsale",
+    "logout" : "//a[text()='Logout']"
+    }
+}
+

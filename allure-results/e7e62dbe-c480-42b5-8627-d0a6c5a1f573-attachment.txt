@@ -1,0 +1,51 @@
+Title of the Page : S kart | Powered by OSPOS 3.3.7
+Welcome to OSPOS, click a module below to get started.
+count of the moduleItems is  12
+
+			
+			Customers
+		
+
+			
+			Items
+		
+
+			
+			Item Kits
+		
+
+			
+			Suppliers
+		
+
+			
+			Reports
+		
+
+			
+			Receivings
+		
+
+			
+			Sales
+		
+
+			
+			Gift Cards
+		
+
+			
+			Messages
+		
+
+			
+			Expenses
+		
+
+			
+			Cashups
+		
+
+			
+			Office
+		
